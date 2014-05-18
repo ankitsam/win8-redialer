@@ -5,9 +5,9 @@ Microsoft has removed the redial options from the dial up connection settings in
 
 ### How to Use:
 -------------
-> Start the application
-> Select the connection from the list and press Start
-> Minimize the application, it will redial automatically if connection drops.
+1) Start the application  
+2) Select the connection from the list and press Start  
+3) Minimize the application, it will redial automatically if connection drops.  
 
 ### Requirements:
 -------------
@@ -15,8 +15,8 @@ I have only tested it on Windows 8 Professional x64(64 bit). But should also wor
 
 ### Notes for Windows 8.1:
 -------------
-> Use compatibility mode to run.
-> Auto Start with windows wont work.
+1) Use compatibility mode to run.  
+2) Auto Start with windows wont work.
 
 ### Screenshot:
 -------------
