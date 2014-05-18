@@ -1,4 +1,5 @@
 # Windows 8 Redialer
+<<<<<<< HEAD
 -------------
 
 Microsoft has removed the redial options from the dial up connection settings in Windows 8 , it redials only when the first dial up connection fails,  not after other successive disconnections as it used to happen in previous versions of windows. So, I have developed this little application so that it keeps my 3G connection alive.
@@ -26,3 +27,32 @@ I have only tested it on Windows 8 Professional x64(64 bit). But should also wor
 -------------
 http://www.ankitsharma.info/softwares/windows8-redialer
 
+=======
+=============
+
+Microsoft has removed the redial options from the dial up connection settings in Windows 8 , it redials only when the first dial up connection fails,  not after other successive disconnections as it used to happen in previous versions of windows. So, I have developed this little application so that it keeps my 3G connection alive.
+
+## How to Use:
+=============
+1) Start the application
+2) Select the connection from the list and press Start
+3) Minimize the application, it will redial automatically if connection drops.
+
+## Requirements:
+=============
+I have only tested it on Windows 8 Professional x64(64 bit). But should also work for x86(32 bit) OS.
+
+## Notes for Windows 8.1:
+=============
+- Use compatibility mode to run.
+- Auto Start with windows wont work.
+
+## Screenshot:
+=============
+![Alt Windows 8 Redialer](https://sites.google.com/a/ankitsharma.info/main/_/rsrc/1388676162756/softwares/windows8-redialer/Win8-Redialer.png)
+
+## Blog Post:
+=============
+http://www.ankitsharma.info/softwares/windows8-redialer
+
+>>>>>>> 5fa85f9b7827c83b4992896494c74e68b3637b65
