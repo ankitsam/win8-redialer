@@ -1,0 +1,12 @@
+D:\Project\Win8Redialer\Win8Redialer\Win8Redialer\bin\Debug\Win8 Redialer.exe.config
+D:\Project\Win8Redialer\Win8Redialer\Win8Redialer\bin\Debug\Win8 Redialer.exe
+D:\Project\Win8Redialer\Win8Redialer\Win8Redialer\bin\Debug\Win8 Redialer.pdb
+D:\Project\Win8Redialer\Win8Redialer\Win8Redialer\bin\Debug\DotRas.dll
+D:\Project\Win8Redialer\Win8Redialer\Win8Redialer\bin\Debug\DotRas.xml
+D:\Project\Win8Redialer\Win8Redialer\Win8Redialer\obj\Debug\Win8Redialer.About.resources
+D:\Project\Win8Redialer\Win8Redialer\Win8Redialer\obj\Debug\Win8Redialer.Form1.resources
+D:\Project\Win8Redialer\Win8Redialer\Win8Redialer\obj\Debug\Win8Redialer.Properties.Resources.resources
+D:\Project\Win8Redialer\Win8Redialer\Win8Redialer\obj\Debug\Win8Redialer.csproj.GenerateResource.Cache
+D:\Project\Win8Redialer\Win8Redialer\Win8Redialer\obj\Debug\Win8 Redialer.exe
+D:\Project\Win8Redialer\Win8Redialer\Win8Redialer\obj\Debug\Win8 Redialer.pdb
+D:\Project\Win8Redialer\Win8Redialer\Win8Redialer\obj\Debug\Win8Redialer.csprojResolveAssemblyReference.cache
